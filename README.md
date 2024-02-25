@@ -4,7 +4,7 @@
 
 `git clone git@github.com:John-Muriu/Django-e-comerce-website.git`
 
-`cd Django-Ecommerce`
+`cd Django-e-comerce-website`
 
 `pip install virtualenv`
 
